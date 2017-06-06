@@ -1,0 +1,23 @@
+{
+  "name": "swagger-mock-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodoabad/swagger-mock-api.git"
+  },
+  "author": "Rodo Abad <rodoabad@gmail.com> (https://github.com/rodoabad)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodoabad/swagger-mock-api/issues"
+  },
+  "homepage": "https://github.com/rodoabad/swagger-mock-api#readme",
+  "devDependencies": {
+    "husky": "^0.13.4",
+    "validate-commit-msg": "^2.12.1"
+  },
+  "scripts": {
+    "commitmsg": "validate-commit-msg"
+  }
+}
